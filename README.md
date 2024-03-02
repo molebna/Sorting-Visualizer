@@ -1,4 +1,4 @@
-In this c++ application you can see a control pannel and two data windows.
+This c++ application has a control pannel and two data windows.
 The first data window shows time complexity of current sorting algorithm and a randomly-generated array with 
 a user-given array size and a range of values. 
 The second data window shows a diagram made of those elements. When you start sorting columns move so you
